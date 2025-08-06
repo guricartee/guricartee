@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo!
+# 👋 Olá, eu sou o Gustavo Ricarte!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  

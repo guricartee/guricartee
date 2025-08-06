@@ -3,6 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
+
 🔍 Interesse em tecnologia, programação e banco de dados. Buscando oportunidades para aplicar meus conhecimentos em desenvolvimento Java e bancos de dados.
 
 ---

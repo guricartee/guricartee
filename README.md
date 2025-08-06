@@ -20,6 +20,7 @@
 
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/login.jpg)
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg)
+![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/leitor.jpg)
 ---
 
 ## 📚 Em aprendizado

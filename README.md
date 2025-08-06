@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
-🔍 Interesse em tecnologia, sistemas inteligentes e automação
+🔍 Interesse em tecnologia, programação e banco de dados
 
 ---
 

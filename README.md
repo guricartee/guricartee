@@ -4,7 +4,7 @@
 
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
 
-🔍 Interesse em tecnologia, programação e banco de dados. Buscando oportunidades para aplicar meus conhecimentos em desenvolvimento Java e bancos de dados.
+🔍 Interesse em tecnologia, programação e banco de dados. 
 
 ---
 ## 🛠️ Tecnologias que utilizo

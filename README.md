@@ -4,7 +4,7 @@
 
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
 
-🔍 Interesse em tecnologia, programação e banco de dados. Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
+🔍 Interesse em tecnologia, programação e banco de dados.  Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
 
 ---
 ## 🛠️ Tecnologias que utilizo

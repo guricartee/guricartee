@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&width=435&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6D071A&width=435&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 

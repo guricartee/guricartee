@@ -1,6 +1,5 @@
-<hr style="height:3px; border:none; background: linear-gradient(90deg, #3b82f6, #8b5cf6);" />
-
 # 👋 Olá, eu sou o Gustavo Ricarte!
+<hr style="height:3px; border:none; background: linear-gradient(90deg, #22c55e, #3b82f6);" />
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 
@@ -8,7 +7,7 @@
 
 🔍 Interesse em tecnologia, programação e banco de dados.  Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
 
----
+--- 
 ## 🛠️ Tecnologias que utilizo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-0093D0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 

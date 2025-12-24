@@ -1,5 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Ricarte!
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&width=435&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)](https://git.io/typing-svg)
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 
@@ -38,7 +37,8 @@
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/leitor.jpg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
- ## 📚 Em aprendizado
+ 
+ ##  📚 Em aprendizado
 
 - Estrutura de dados  
 - Boas práticas de programação  

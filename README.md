@@ -1,3 +1,5 @@
+<hr style="height:3px; border:none; background: linear-gradient(90deg, #3b82f6, #8b5cf6);" />
+
 # 👋 Olá, eu sou o Gustavo Ricarte!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu

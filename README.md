@@ -11,6 +11,17 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-0093D0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
+## 👨‍💻 Minhas Competências
+
+| Área            | Habilidades |
+|-----------------|-------------|
+| 🌍 Idiomas      | Português, Inglês|
+| 🧰 Office       | Word, Excel, Power BI, PowerPoint|
+| 🗄️ Banco de Dados |MySQL |
+| 🔄 Linguagens | Java, Python |
+
+
+
 ## 🚀 Projetos em Destaque
 
 - 📲 [Sistema de Presença com QR Code](https://github.com/guricartee/sistema-presenca-qrcode-java)  

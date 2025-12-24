@@ -36,22 +36,22 @@
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/login.jpg)
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg)
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/leitor.jpg)
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
-## 📚 Em aprendizado
+ 📚 **Em aprendizado**
 
 - Estrutura de dados  
 - Boas práticas de programação  
 - Organização de projetos no GitHub  
 - Integração com banco de dados
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
----
+
 
 ## 📬 Como me encontrar
 
 - ✉️ Email: gustavoricarte12271227@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
----
+
 
 ⭐ Obrigado por visitar meu perfil!

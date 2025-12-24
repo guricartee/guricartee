@@ -6,8 +6,8 @@
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
 
 🔍 Interesse em tecnologia, programação e banco de dados.  Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
+<div style="height:3px; background: linear-gradient(90deg, #22c55e, #3b82f6); margin: 24px 0;"></div>
 
----  <div style="height:3px; background: linear-gradient(90deg, #22c55e, #3b82f6); margin: 16px 0;"></div>
 ## 🛠️ Tecnologias que utilizo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-0093D0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 

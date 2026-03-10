@@ -4,9 +4,9 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
 
-💻 Desenvolvendo projetos com **Java**, **MySQL** e **Swing**  
+💻 Desenvolvendo projetos com **Java**, **MySQL** e **Cisco Packet Tracer**  
 
-🔍 Interesse em tecnologia, programação e banco de dados.  Proatividade, comunicação e liderança em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
+🔍 Interesse em tecnologia, banco de dados e programação. Proatividade, comunicação e organização em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
 
 
 ## 🛠️ Tecnologias que utilizo
@@ -21,7 +21,7 @@
 |-----------------|-------------|
 | 🌍 Idiomas      | Português, Inglês|
 | 🧰 Office       | Word, Excel, Power BI, PowerPoint|
-| 🗄️ Banco de Dados |MySQL |
+| 🗄️ Banco de Dados |MySQL, PostgreSQL e MongoDB |
 | 🔄 Linguagens | Java, Python |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
@@ -43,9 +43,9 @@
  ##  📚 Em aprendizado
 
 - Estrutura de dados  
-- Boas práticas de programação  
+- User Interface / User Experience  
 - Organização de projetos no GitHub  
-- Integração com banco de dados
+- JavaScript
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 

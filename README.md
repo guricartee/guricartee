@@ -6,7 +6,7 @@
 
 💻 Desenvolvendo projetos com **Java**, **MySQL** e **Cisco Packet Tracer**  
 
-🔍 Interesse em tecnologia, banco de dados e programação. Proatividade, comunicação e organização em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
+🔍 Interesse em tecnologia, banco de dados e infraestrutura. Proatividade, comunicação e organização em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
 
 
 ## 🛠️ Tecnologias que utilizo

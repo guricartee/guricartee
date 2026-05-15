@@ -38,7 +38,9 @@
 
 - [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileirao)
   Este projeto consiste em um dashboard interativo de visualização de dados focado no histórico do Campeonato Brasileiro dos pontos corridos.
-- [Portfólio Profissional] (https://github.com/guricartee/dashboard-brasileirao)
+
+- [Portfólio Profissional] (https://github.com/guricartee/portfolio-site)
+  Site de portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna e responsiva.
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  

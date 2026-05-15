@@ -35,7 +35,7 @@
 
 - 📷 Demonstração
 
-<img src="https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg"width="700">
+<img src="https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg" width="700">
 
 
 - [Dashboard de Recursos Humanos](https://github.com/guricartee/dashboard-rh)

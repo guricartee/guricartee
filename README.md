@@ -43,7 +43,8 @@
 - 📷 Demonstração
 
 
-- [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileiro)
+- [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileirao)
+  Este projeto consiste em um dashboard interativo de visualização de dados focado no histórico do Campeonato Brasileiro dos pontos corridos.
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  

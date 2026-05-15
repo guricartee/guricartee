@@ -38,6 +38,7 @@
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg)
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/leitor.jpg)
 
+- [Dashboard de Recursos Humanos] 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  
  ##  📚 Em aprendizado

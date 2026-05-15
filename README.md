@@ -36,9 +36,15 @@
 - 📷 Demonstração
 
 ![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/escanear.jpg)
-![Print do sistema](https://raw.githubusercontent.com/guricartee/sistema-presenca-qrcode-java/main/leitor.jpg)
+
 
 - [Dashboard de Recursos Humanos](https://github.com/guricartee/dashboard-rh)
+  Dashboard de Insights de RH desenvolvido em Python utilizando Pandas, Matplotlib e Streamlit para análise de dados de funcionários.
+- 📷 Demonstração
+
+
+- [Dashboard
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  
  ##  📚 Em aprendizado

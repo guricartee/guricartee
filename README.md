@@ -31,6 +31,7 @@
 
 
 - 📲 [Sistema de Presença com QR Code](https://github.com/guricartee/sistema-presenca-qrcode-java)  
+
   Projeto desenvolvido em Java para registrar entrada e saída de alunos utilizando QR Code com banco de dados MySQL integrado.
 
 - 📲 [Dashboard de Recursos Humanos](https://github.com/guricartee/dashboard-rh)

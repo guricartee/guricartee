@@ -34,13 +34,16 @@
   Projeto desenvolvido em Java para registrar entrada e saída de alunos utilizando QR Code com banco de dados MySQL integrado.
 
 - [Dashboard de Recursos Humanos](https://github.com/guricartee/dashboard-rh)
+
   Dashboard de Insights de RH desenvolvido em Python utilizando Pandas, Matplotlib e Streamlit para análise de dados de funcionários.
 
 - [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileirao)
-  Este projeto consiste em um dashboard interativo de visualização de dados focado no histórico do Campeonato Brasileiro dos pontos corridos.
 
-- [Portfólio Profissional] (https://github.com/guricartee/portfolio-site)
-  Site de portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna e responsiva.
+   Este projeto consiste em um dashboard interativo de visualização de dados focado no histórico do Campeonato Brasileiro dos pontos corridos.
+
+- [Portfólio Profissional] (https://github.com/guricartee/Portfolio-site)
+
+   Site de portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna e responsiva.
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  

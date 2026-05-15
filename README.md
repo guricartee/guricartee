@@ -43,7 +43,7 @@
 - 📷 Demonstração
 
 
-- [Dashboard
+- [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileiro)
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
  

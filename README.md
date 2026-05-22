@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&width=700&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
 
 <h1>About me</h1>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
+
 
 
 <p align="justify">
@@ -28,16 +28,9 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 ## 💻 Áreas 
 ### HelpDesk, Banco de Dados e Back-end
-
-
-## 🛠️ Tecnologias que utilizo
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 ## 👨‍💻 Minhas Competências
-
 
 | Área            | Habilidades |
 |-----------------|-------------|
@@ -46,6 +39,11 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 | 🗄️ Banco de Dados |MySQL, PostgreSQL e MongoDB |
 | 🔄 Linguagens | Java, Python |
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
+
+## 🛠️ Linguagens de Programação
+
+[![Java e Python](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 ## 🚀 Projetos em Destaque

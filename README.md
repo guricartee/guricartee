@@ -2,11 +2,32 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&width=700&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu
+<h1>About me</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
+<hr>
 
-💻 Desenvolvendo projetos com **VsCode**, **MySQL** e **Cisco Packet Tracer**  
+<p align="justify">
+Atualmente cursando Análise e Desenvolvimento de Sistemas. 
+Tenho interesse em tecnologia, banco de dados, infraestrutura e desenvolvimento de software. 
+Busco constantemente aprimorar minhas habilidades através de projetos práticos e estudos voltados para inovação e computação.
+</p>
 
-🔍 Interesse em tecnologia, banco de dados e infraestrutura. Proatividade, comunicação e organização em projetos acadêmicos são características marcantes, sempre visando o bom desenvolvimento.
+<br>
+
+<div align="center">
+
+<a href="guricarte">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:gustavoricarte12271227@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px"/>
+</a>
+</div>
+
+<br>
 
 
 ## 🛠️ Tecnologias que utilizo

@@ -41,7 +41,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
-## 🛠️ Linguagens de Programação
+## ⌨️ Linguagens de Programação
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python" alt="Java e Python" />
@@ -50,7 +50,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
-## Ferramentas
+## 🛠️ Ferramentas
 <p align="center" > 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,pycharm,vscode,figma,linux" />
 </p>

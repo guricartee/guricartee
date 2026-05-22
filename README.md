@@ -4,7 +4,7 @@
 
 <h1>About me</h1>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
-<hr>
+
 
 <p align="justify">
 Atualmente cursando Análise e Desenvolvimento de Sistemas. 
@@ -16,7 +16,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 <div align="center">
 
-<a href="guricarte">
+<a href="https://www.linkedin.com/in/guricarte">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
 </a>
 

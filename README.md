@@ -34,7 +34,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 | Área            | Habilidades |
 |-----------------|-------------|
-|  Idiomas      | Português, Inglês|
+|  Idiomas      | Português e Inglês|
 |  Office       | Word, Excel, Power BI, PowerPoint|
 |  Banco de Dados |SQL e NoSQL |
 

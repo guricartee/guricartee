@@ -26,6 +26,9 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 <br>
 
+## 💻 Áreas 
+### HelpDesk, Banco de Dados e Back-end
+
 
 ## 🛠️ Tecnologias que utilizo
 

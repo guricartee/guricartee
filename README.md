@@ -43,12 +43,18 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 ## 🛠️ Linguagens de Programação
 
-[![Java e Python](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java e Python" />
+</p>
+
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 ## Ferramentas
+<p align="center" > 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,pycharm,vscode,figma,linux" />
+</p>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,pycharm,vscode,figma,linux)](https://skillicons.dev)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 

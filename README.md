@@ -2,13 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&width=700&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
 
-<h1>About me</h1>
+<h1>Sobre Mim</h1>
 
 
 
 <p align="justify">
 Atualmente cursando Análise e Desenvolvimento de Sistemas. 
-Tenho interesse em tecnologia, banco de dados, infraestrutura e desenvolvimento de software. 
+Tenho interesse em banco de dados, infraestrutura e programação. 
 Busco constantemente aprimorar minhas habilidades através de projetos práticos e estudos voltados para inovação e computação.
 </p>
 

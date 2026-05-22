@@ -48,7 +48,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 ## Ferramentas
 
-[![Minhas Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,pycharm,vscode,figma,linux)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,pycharm,vscode,netbeans,figma,linux)](https://skillicons.dev)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 

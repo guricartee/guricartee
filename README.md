@@ -34,10 +34,10 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 | Área            | Habilidades |
 |-----------------|-------------|
-| 🌍 Idiomas      | Português, Inglês|
-| 🧰 Office       | Word, Excel, Power BI, PowerPoint|
-| 🗄️ Banco de Dados |MySQL, PostgreSQL e MongoDB |
-| 🔄 Linguagens | Java, Python |
+|  Idiomas      | Português, Inglês|
+|  Office       | Word, Excel, Power BI, PowerPoint|
+|  Banco de Dados |SQL e NoSQL |
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 

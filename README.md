@@ -14,18 +14,18 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 <br>
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/guricarte">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 &nbsp;
 
 <a href="mailto:gustavoricarte12271227@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</div>
+</p>
 
 <br>
 

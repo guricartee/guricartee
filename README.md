@@ -1,5 +1,7 @@
 ![Waves](https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=header)
 
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&width=700&lines=Olá!+Eu+sou+o+Gustavo+Ricarte)
 
 <h1>Sobre Mim</h1>

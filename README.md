@@ -81,6 +81,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
    Site de portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna e responsiva.
 -  📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
 
+    Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos.
   
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

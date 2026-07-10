@@ -91,7 +91,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 - Estrutura de dados  
 - User Interface / User Experience  
 - Organização de projetos no GitHub  
-- Active Directory
+- JavaScript
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
 

@@ -40,6 +40,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 |  Idiomas      | Português e Inglês|
 |  Office       | Word, Excel, Power BI, PowerPoint|
 |  Banco de Dados |SQL e NoSQL |
+|  Suporte Técnico | Active Directory e Anydesk |
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
@@ -89,8 +90,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
  ##  📚 Em aprendizado
 
 - Estrutura de dados  
-- User Interface / User Experience  
-- Organização de projetos no GitHub  
+- User Interface / User Experience   
 - JavaScript
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 

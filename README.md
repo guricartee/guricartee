@@ -10,7 +10,7 @@
 
 <p align="justify">
 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. 
-Tenho interesse em banco de dados, infraestrutura e programação. 
+Tenho interesse em suporte técnico, banco de dados e infraestrutura. 
 Proatividade, empenho e comunicação em projetos acadêmicos são meus pontos fortes, sempre visando um desenvolvimento eficaz.
 Busco constantemente aprimorar minhas habilidades através de projetos práticos e estudos voltados para inovação e computação.
 </p>

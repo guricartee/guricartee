@@ -80,9 +80,15 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 - 📲 [Portfólio Profissional](https://github.com/guricartee/Portfolio-site)
 
    Site de portfólio profissional desenvolvido para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna e responsiva.
+
 -  📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
 
     Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos.
+
+-  📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/mpainel-de-chamados-tecnologia)
+
+    Painel desenvolvido para monitoramento e análise de chamados de Tecnologia, com o objetivo de transformar dados operacionais em informações visuais que facilitem o acompanhamento do suporte.
+
   
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

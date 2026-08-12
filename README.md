@@ -85,7 +85,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
     Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos.
 
--  📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/mpainel-de-chamados-tecnologia)
+-  📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
     Painel desenvolvido para monitoramento e análise de chamados de Tecnologia, com o objetivo de transformar dados operacionais em informações visuais que facilitem o acompanhamento do suporte.
 

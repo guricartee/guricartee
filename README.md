@@ -93,7 +93,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
  
  ##  📚 Em aprendizado
 
-- Estrutura de dados  
+- Engenharia de software  
 - User Interface / User Experience   
 - JavaScript
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

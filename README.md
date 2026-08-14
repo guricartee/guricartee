@@ -86,7 +86,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 - 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
-    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Excel, para monitoramento e análise de chamados de Tecnologia.
+    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
   
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

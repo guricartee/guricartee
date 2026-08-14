@@ -75,7 +75,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 - 📲 [Dashboard Campeonato Brasileiro 2003 - 2024](https://github.com/guricartee/dashboard-brasileirao)
 
-   Este projeto consiste em um dashboard interativo de visualização de dados focado no histórico do Campeonato Brasileiro dos pontos corridos.
+   Este projeto consiste em um dashboard interativo de visualização de dados, desenvolvido no Google Looker Studio, focado no histórico do Campeonato Brasileiro no formato de pontos corridos.
 
 - 📲 [Portfólio Profissional](https://github.com/guricartee/Portfolio-site)
 
@@ -87,7 +87,8 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 -  📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
-    Painel desenvolvido para monitoramento e análise de chamados de Tecnologia, com o objetivo de transformar dados operacionais em informações visuais que facilitem o acompanhamento do suporte.
+    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Excel, para monitoramento e análise de chamados de Tecnologia, com o objetivo de transformar dados operacionais em informações
+    visuais que facilitem o acompanhamento do suporte.
 
   
   

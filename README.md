@@ -40,7 +40,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 |  Idiomas      | Português e Inglês|
 |  Office       | Word, Excel, Power BI, PowerPoint|
 |  Banco de Dados |SQL e NoSQL |
-|  Suporte Técnico | Active Directory e Anydesk |
+|  Suporte Técnico | Active Directory, Anydesk, Windows e Linux |
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

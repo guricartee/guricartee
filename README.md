@@ -64,11 +64,11 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 ## 🚀 Projetos em Destaque
 
+- 📲 [Lab de Active Directory com Windows Server 2022](https://github.com/guricartee/lab-active-directory-windows-server-2022)
+
+    Laboratório prático de Active Directory com Windows Server 2022, desenvolvido no VirtualBox para simular um ambiente corporativo, com configuração de domínio, criação de usuários, grupos de segurança,       Unidades Organizacionais (OUs) e gerenciamento de permissões.
+
 - 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
-
-    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
-
-  - 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
     Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
   

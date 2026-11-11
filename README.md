@@ -64,7 +64,14 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
 ## 🚀 Projetos em Destaque
 
+- 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
+    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
+
+  - 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
+
+    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
+  
 - 📲 [Sistema de Presença com QR Code](https://github.com/guricartee/sistema-presenca-qrcode-java)  
 
   Projeto desenvolvido em Java para registrar entrada e saída de alunos utilizando QR Code com banco de dados MySQL integrado.
@@ -83,10 +90,6 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 - 📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
 
     Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos.
-
-- 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
-
-    Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.
   
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />

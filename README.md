@@ -73,6 +73,10 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
     Laboratório prático de Active Directory com Windows Server 2022, desenvolvido no VirtualBox para simular um ambiente corporativo, com configuração de domínio, criação de usuários, grupos de segurança,       Unidades Organizacionais (OUs) e gerenciamento de permissões.
 
+- 📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
+
+   Rede com duas filiais interligadas por roteadores Cisco 1841 (rotas estáticas), com DHCP, DNS, servidor web e servidor de e-mail, simulada no Cisco Packet Tracer.
+
 - 📲 [Painel de chamados - Suporte de Tecnologia](https://github.com/guricartee/painel-de-chamados-tecnologia)
 
     Painel desenvolvido no Google Looker Studio, integrado a uma planilha do Google Sheets, para monitoramento e análise de chamados de Tecnologia.

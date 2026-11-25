@@ -73,7 +73,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
     Laboratório prático de Active Directory com Windows Server 2022, desenvolvido no VirtualBox para simular um ambiente corporativo, com configuração de domínio, criação de usuários, grupos de segurança,       Unidades Organizacionais (OUs) e gerenciamento de permissões.
 
-- 📲 [Rede com Duas Filiais: Roteamento, DHCP, DNS, HTTP e E-mail](https://github.com/guricartee/rede-duas-filiais-dns-dhcp-e-mail-)
+- 📲 [Rede com Duas Filiais: Roteamento, DHCP, DNS, HTTP e E-mail](https://github.com/guricartee/rede-duas-filiais-dhcp-dns-http-email)
 
    Rede com duas filiais interligadas por roteadores Cisco 1841 (rotas estáticas), com DHCP, DNS, servidor web e servidor de e-mail, simulada no Cisco Packet Tracer.
 

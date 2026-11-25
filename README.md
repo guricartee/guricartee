@@ -73,7 +73,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 
     Laboratório prático de Active Directory com Windows Server 2022, desenvolvido no VirtualBox para simular um ambiente corporativo, com configuração de domínio, criação de usuários, grupos de segurança,       Unidades Organizacionais (OUs) e gerenciamento de permissões.
 
-- 📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
+- 📲 [Rede com Duas Filiais: Roteamento, DHCP, DNS, HTTP e E-mail](https://github.com/guricartee/rede-duas-filiais-dns-dhcp-e-mail-)
 
    Rede com duas filiais interligadas por roteadores Cisco 1841 (rotas estáticas), com DHCP, DNS, servidor web e servidor de e-mail, simulada no Cisco Packet Tracer.
 
@@ -96,9 +96,7 @@ Busco constantemente aprimorar minhas habilidades através de projetos práticos
 - 📲 [Portfólio Profissional](https://github.com/guricartee/Portfolio-site)
 
    Site de portfólio profissional desenvolvido com Astro, TypeScript, MDX, JavaScript, CSS, HTML e Docker, para apresentar projetos, habilidades técnicas, experiências e informações de contato de forma moderna     e responsiva.
-- 📲 [Matemática computacional com Python](https://github.com/guricartee/matematica-com-python)
 
-    Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos.
   
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
